@@ -22,3 +22,11 @@
 </h2>
 
 I am a biomedical engineer at Biophysics and Tissue Engineering Laboratory in Universidad Autónoma Metropolitana from Mexico.
+
+- :telescope: I’m working as a Research Assistant and contributing to Computational Biophysics developing algorithms for cellular interaccions in pancreatic islets.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
