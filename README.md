@@ -1,9 +1,9 @@
+<h1 align="center">
+  Rodolfo Misael López Labastida
+</h1>
+
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1gxpJMuH-7hgvNFGJ29ug2HkyndDOZmok/view?usp=sharing" width="200"/>
-    <br>
-    <a href="https://drive.google.com/file/d/1gxpJMuH-7hgvNFGJ29ug2HkyndDOZmok/view?usp=sharing" download>
-        Download
-    </a>
+  <img src="https://drive.google.com/uc?export=view&id=1gxpJMuH-7hgvNFGJ29ug2HkyndDOZmok" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -12,4 +12,11 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h2 align="center">
+  Hey guys! I think you are looking for my info.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
