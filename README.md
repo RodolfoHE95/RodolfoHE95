@@ -20,3 +20,5 @@
   Hey guys! I think you are looking for my info.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+
+I am a biomedical engineer at Biophysics and Tissue Engineering Laboratory in Universidad Autónoma Metropolitana from Mexico.
