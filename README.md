@@ -21,9 +21,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-I am a biomedical engineer at Biophysics and Tissue Engineering Laboratory in Universidad Autónoma Metropolitana from Mexico 🇲🇽.
+I am a biomedical engineer and mechatronics engineer from Mexico 🇲🇽.
 
-- :telescope: I’m working as a Research Assistant and contributing to Computational Biophysics developing algorithms for cellular interaccions in pancreatic islets.
+- :telescope: I’m working as a software development manager.
 
 - :seedling: Exploring Technical Content Writing.
 
